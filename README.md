@@ -12,6 +12,8 @@ This repository contains analysis code for studying detector backgrounds, includ
 - Event visualization
 
 ## Structure
+
+```text
 src/
   dbscan.py
   build_clusters.py
@@ -28,5 +30,3 @@ Notebooks/
   detector_energy_geant4.ipynb
   Nu_calib.ipynb
   geant4_mcp_analysis.ipynb
-
-
