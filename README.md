@@ -13,16 +13,20 @@ This repository contains analysis code for studying detector backgrounds, includ
 
 ## Structure
 src/
-dbscan.py
-build_clusters.py
-classify_clusters.py
-remove_near_points.py
-Find_bad_region.py
-plot.py
+  dbscan.py
+  build_clusters.py
+  classify_clusters.py
+  remove_near_points.py
+  Find_bad_region.py
+  plot.py
+
 py/
-cluster.py
-Notebook/
-prelimenary_result.ipynb
-detector_energy_geant4.ipynb
-Nu_calib.ipynb
-geant4_mcp_analysis.ipynb
+  cluster.py
+
+Notebooks/
+  prelimenary_result.ipynb
+  detector_energy_geant4.ipynb
+  Nu_calib.ipynb
+  geant4_mcp_analysis.ipynb
+
+
